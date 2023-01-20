@@ -1,0 +1,508 @@
+﻿Build started 1/11/2023 6:54:24 PM.
+     1>Project "E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Train_Project\Train_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D GLUT_BUILDNG_LIB /D _CRT_NONSTDC_NO_DEPRECATE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Source (1).cpp"
+         Source (1).cpp
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(476): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(481): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(484): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(491): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(496): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(499): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(508): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(510): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(514): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(517): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(526): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(528): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(532): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(535): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(544): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(547): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(550): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(555): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(558): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(566): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(569): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(572): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(577): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(580): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(588): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(592): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(595): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(601): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(605): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(613): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(620): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(624): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(633): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(637): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(644): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(648): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(655): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(659): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(671): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(675): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(679): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(683): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1312): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1314): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1324): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1325): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1335): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1336): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1345): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1346): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1422): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1425): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1448): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1451): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1470): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1473): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1482): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1485): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1500): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1503): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1524): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1527): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1549): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1552): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1568): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1571): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1599): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1608): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1639): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1649): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1664): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1667): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1675): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1678): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1693): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1696): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1715): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1718): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1740): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1743): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1760): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1763): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1846): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1852): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1855): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1858): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1861): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1888): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1898): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1908): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1911): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1914): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1917): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1926): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1929): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1932): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1936): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1950): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1953): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1956): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1959): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1968): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1971): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1978): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1991): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(1995): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2001): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2004): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2006): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2009): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2011): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2017): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2022): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2028): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2031): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2033): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2036): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2038): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2055): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2058): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2073): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(2076): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5553): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5555): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5641): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5642): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5657): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(5659): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6077): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6078): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6079): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6080): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6081): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6082): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6083): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6084): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6085): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6086): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6087): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6088): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6089): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6189): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6193): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6194): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6195): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6196): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6197): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6198): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6199): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6200): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6242): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6259): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6274): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6291): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6321): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6321): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6332): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6332): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6342): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6342): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6359): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6365): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6366): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6427): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6430): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6453): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6456): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6475): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6478): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6487): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6490): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6505): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6508): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6529): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6532): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6554): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6557): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6573): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6576): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6604): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6613): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6644): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6654): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6664): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6667): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6692): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6695): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6706): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6709): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6712): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6715): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6731): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6734): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6740): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6742): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6882): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6890): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6900): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6903): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6906): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6909): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6918): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6921): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6924): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6928): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6945): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6949): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6955): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6958): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6960): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6963): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6965): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6971): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6976): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6982): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6985): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6987): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6990): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(6992): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7009): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7012): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7027): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7030): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7043): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7045): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7055): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7056): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7066): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7067): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7076): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7077): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7085): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7086): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7120): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7122): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7124): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7126): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7131): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7133): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7135): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7137): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7142): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7144): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7146): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7148): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7152): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7153): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7154): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7155): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7162): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7164): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7166): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7168): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7173): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7175): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7179): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7186): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7188): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7190): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7198): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7200): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7202): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7204): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7209): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7211): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7213): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7215): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7220): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7222): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7224): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7226): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7230): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7231): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7232): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7233): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7238): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7240): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7242): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7244): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7249): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7251): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7253): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7255): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7260): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7262): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7264): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7266): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7271): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7273): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7275): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7277): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7282): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7284): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7286): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7288): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7293): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7295): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7297): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7299): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7304): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7306): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7308): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7310): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7315): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7317): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7319): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7321): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7326): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7328): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7330): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7332): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7338): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7340): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7342): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7344): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7349): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7351): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7353): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7355): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7360): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7362): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7364): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7366): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7371): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7373): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7375): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7377): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7382): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7384): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7386): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7388): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7393): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7395): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7397): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7399): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7404): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7406): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7408): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7410): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7415): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7417): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7419): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7421): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7426): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7428): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7430): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7432): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7439): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7441): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7443): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7445): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7450): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7452): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7454): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7456): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7461): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7463): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7465): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7467): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7471): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7472): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7473): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7474): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7479): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7481): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7483): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7485): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7490): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7492): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7494): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7496): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7501): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7503): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7505): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7507): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7512): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7514): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7516): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7518): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7523): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7525): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7527): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7529): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7534): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7536): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7538): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7540): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7545): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7547): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7549): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7551): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7556): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7558): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7560): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7562): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7567): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7569): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7571): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7573): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7579): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7581): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7583): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7585): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7590): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7592): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7594): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7596): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7601): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7603): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7605): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7607): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7612): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7614): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7616): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7618): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7623): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7625): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7627): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7629): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7634): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7636): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7638): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7640): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7645): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7647): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7649): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7651): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7656): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7658): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7660): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7662): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7667): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7669): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7671): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7673): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7689): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7691): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7711): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7714): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7737): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7740): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7751): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7760): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7772): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7782): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7861): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7863): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7873): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7874): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7884): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7885): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7894): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7895): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7908): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7915): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7919): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7925): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7928): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7930): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7933): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7935): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7941): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7946): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7952): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7955): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7957): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7960): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(7962): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8674): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8682): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8690): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8702): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8711): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8712): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8720): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8721): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8730): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8731): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8739): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8740): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8749): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8750): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8757): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8758): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8765): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8766): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8773): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8774): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8781): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\train_project\train_project\source (1).cpp(8782): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Debug\Train_Project.exe" /INCREMENTAL /NOLOGO GLAUX.lib GLU32.lib glut.lib OPENGL32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Debug\Train_Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Debug\Train_Project.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\GLTexture.obj
+         Debug\Model_3DS.obj
+         "Debug\Source (1).obj"
+         Debug\texture.obj
+         Train_Project.vcxproj -> E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Debug\Train_Project.exe
+     1>Done Building Project "E:\جامعة\مشروع بيانيات حاسوبية\train_project (2)\Train_Project\Train_Project\Train_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.62
